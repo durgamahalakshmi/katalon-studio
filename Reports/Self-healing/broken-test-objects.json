@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Course - End To End Software Testing Solution/a_Log InRegister As Student",
+      "brokenLocator": "//li[@id\u003d\u0027menu-item-3702\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li[5]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }

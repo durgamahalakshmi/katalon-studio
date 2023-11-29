@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>6138d1c0-ada1-4248-a62f-7c32c2a53e6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile-nav']/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.logout > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4fc6263a-653f-410f-a506-a2fbd2c83c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://testautomasi.com/profile/katalon/lp-logout/</value>
+      <webElementGuid>cf496720-1b9c-4c5e-8314-cfc6af4e6dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slug</name>
+      <type>Main</type>
+      <value>https://testautomasi.com/profile/katalon/lp-logout/</value>
+      <webElementGuid>c69a6889-f245-490f-9d71-3dbffd746366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										Logout				</value>
+      <webElementGuid>f96203d3-db76-473b-bb72-b352b6afbafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile-nav&quot;)/ul[@class=&quot;lp-profile-nav-tabs&quot;]/li[@class=&quot;logout&quot;]/a[1]</value>
+      <webElementGuid>6f618e86-d89d-4ffb-b0f3-54e8eb7b7fde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile-nav']/ul/li[5]/a</value>
+      <webElementGuid>e9f493d0-0366-42db-8c1f-bfefdabd7eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://testautomasi.com/profile/katalon/lp-logout/')]</value>
+      <webElementGuid>9aae6f10-1a60-481c-a4b4-575180835bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/ul/li[5]/a</value>
+      <webElementGuid>8a32b9ba-3abc-402a-b01f-19ec4c79b847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://testautomasi.com/profile/katalon/lp-logout/' and (text() = '
+										Logout				' or . = '
+										Logout				')]</value>
+      <webElementGuid>70c8537a-1fb7-4be6-bec3-01483a4c48db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
